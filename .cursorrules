@@ -1,0 +1,11 @@
+## Package management
+- Use pnpm
+
+## General programming
+- Prefer a functional programming style, using lodash/fp when appropriate
+- Always used destructured objects for functions as opposed to parameter order
+
+
+## Redux
+ - Action types should be past tense events
+ - Action creators function names should be verbs

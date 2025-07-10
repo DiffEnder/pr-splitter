@@ -1,0 +1,20 @@
+{
+  "diffender-diffender-51.diff": {
+    "f1Score": 1,
+    "timeMilliseconds": 59521,
+    "timeHumanReadable": "0m:59s",
+    "numHunks": 4,
+    "sha": "7876680325f6996e7dd60788ceaa790a79fa5de4",
+    "groups": [
+      [
+        "c7050d4a",
+        "ebb43b6b"
+      ],
+      [
+        "a15854a6",
+        "12c544e7"
+      ]
+    ],
+    "llmProvider": "Anthropic"
+  }
+}

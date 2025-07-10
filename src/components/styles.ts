@@ -1,0 +1,6 @@
+export const PRIMARY_COLOR = 'blue'
+export const SECONDARY_COLOR = 'greenBright'
+export const DISABLED_COLOR = 'grey'
+export const ERROR_COLOR = 'red'
+export const SUCCESS_COLOR = 'greenBright'
+export const WARNING_COLOR = 'yellow'

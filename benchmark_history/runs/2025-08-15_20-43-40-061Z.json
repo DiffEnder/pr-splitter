@@ -1,0 +1,90 @@
+{
+  "diffender-diffender-51.diff": {
+    "f1Score": 1,
+    "timeMilliseconds": 54842,
+    "timeHumanReadable": "0m:54s",
+    "numHunks": 4,
+    "sha": "4fe40412bc6803117aaa3f83a75223071d2839ab",
+    "groups": [
+      [
+        "c7050d4a",
+        "ebb43b6b"
+      ],
+      [
+        "a15854a6",
+        "12c544e7"
+      ]
+    ],
+    "llmProvider": "Anthropic"
+  },
+  "diffender-gitnotebooks-140.diff": {
+    "f1Score": 0.8842105263157896,
+    "timeMilliseconds": 460141,
+    "timeHumanReadable": "7m:40s",
+    "numHunks": 35,
+    "sha": "4fe40412bc6803117aaa3f83a75223071d2839ab",
+    "groups": [
+      [
+        "b3af5a3b",
+        "1a7810f3",
+        "9114b10b",
+        "e285dee2",
+        "cf649c76",
+        "bed3ea94"
+      ],
+      [
+        "1471092f",
+        "f41676ee",
+        "6d34c60f"
+      ],
+      [
+        "a2397456",
+        "b6cefc92",
+        "d2af1a99",
+        "909bfa9f",
+        "311f35a3",
+        "5f78a89b",
+        "07fe4dd3",
+        "1a601faf",
+        "dbb1b095",
+        "0cc8735a",
+        "5b096b1f",
+        "3ccd3943",
+        "20585342",
+        "9f08db89",
+        "88bacb91",
+        "d4c5248d",
+        "f3a099b9",
+        "877b1042",
+        "c91ad4da",
+        "17bd2d10",
+        "4c975ce5",
+        "8f6e3da7",
+        "1a601faf",
+        "dbb1b095",
+        "0cc8735a",
+        "5b096b1f",
+        "3ccd3943",
+        "20585342",
+        "9f08db89",
+        "88bacb91",
+        "d4c5248d",
+        "f3a099b9",
+        "877b1042",
+        "c91ad4da",
+        "17bd2d10",
+        "4c975ce5",
+        "8f6e3da7"
+      ],
+      [
+        "50d2dc35"
+      ],
+      [
+        "2a9ce6e0",
+        "d03cf1a4",
+        "31651eac"
+      ]
+    ],
+    "llmProvider": "Anthropic"
+  }
+}

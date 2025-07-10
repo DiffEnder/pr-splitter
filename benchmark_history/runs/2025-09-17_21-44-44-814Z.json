@@ -1,0 +1,77 @@
+{
+  "diffender-diffender-51.diff": {
+    "f1Score": 1,
+    "timeMilliseconds": 49356,
+    "timeHumanReadable": "0m:49s",
+    "numHunks": 4,
+    "sha": "74132a67a620faca056eb8dbcc25b68d2f22b274",
+    "groups": [
+      [
+        "c7050d4a",
+        "ebb43b6b"
+      ],
+      [
+        "a15854a6",
+        "12c544e7"
+      ]
+    ],
+    "llmProvider": "Anthropic"
+  },
+  "diffender-gitnotebooks-140.diff": {
+    "f1Score": 0.6322580645161291,
+    "timeMilliseconds": 967014,
+    "timeHumanReadable": "16m:07s",
+    "numHunks": 35,
+    "sha": "74132a67a620faca056eb8dbcc25b68d2f22b274",
+    "groups": [
+      [
+        "b3af5a3b",
+        "1a7810f3",
+        "9114b10b",
+        "e285dee2",
+        "cf649c76",
+        "bed3ea94"
+      ],
+      [
+        "d4c5248d",
+        "f3a099b9",
+        "877b1042",
+        "c91ad4da",
+        "17bd2d10",
+        "4c975ce5",
+        "8f6e3da7"
+      ],
+      [
+        "1471092f",
+        "f41676ee",
+        "6d34c60f"
+      ],
+      [
+        "a2397456",
+        "b6cefc92",
+        "d2af1a99",
+        "909bfa9f",
+        "311f35a3",
+        "5f78a89b",
+        "07fe4dd3",
+        "1a601faf",
+        "dbb1b095",
+        "0cc8735a",
+        "5b096b1f",
+        "3ccd3943",
+        "20585342",
+        "9f08db89",
+        "88bacb91"
+      ],
+      [
+        "50d2dc35"
+      ],
+      [
+        "2a9ce6e0",
+        "d03cf1a4",
+        "31651eac"
+      ]
+    ],
+    "llmProvider": "Anthropic"
+  }
+}
