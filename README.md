@@ -37,7 +37,7 @@ We often open large pull requests because breaking up a set of changes into comm
 `pr-splitter` collects all git hunks within a pull request, summarizes each, creates an in-memory vector database of these hunks,
 and uses an LLM to group similar hunks together. A new commit is created for each group, and a pull request is created for each commit.
 
-For a more detailed understanding, read the [types.ts](./blob/main/src/types.ts) file and its comments.
+For a more detailed understanding, read the [types.ts](./src/types.ts) file and its comments.
 There you'll find every type used in the project and its purpose.
 
 ## Contributing
