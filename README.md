@@ -12,7 +12,7 @@ npm install -g pr-splitter
 
 ## Usage
 
-Run `pr-splitter` without arguments to launch the interactive UI that guides you through breaking up a pull request into smaller pull requests.
+Run `pr-splitter` without arguments to launch the interactive UI that guides you through breaking up a pull request.
 
 <img src="media/screenshot.png" width="350">
 

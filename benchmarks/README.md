@@ -16,7 +16,7 @@ To run the benchmarks use `pnpm benchmarks`. The results will be stored in `benc
 1. Choose a pull request
 1. Run `git diff ${BASE_BRANCH} ${HEAD_BRANCH} > benchmarks/input/${REPO_NAME}-${PR_NUMBER}.diff`
 1. Create a gold file using `npx ts-node generate-hashes.ts <path-to-diff-file>`
-1. Open the newly generated `gold/` file and follow the instructions in the comments of the file to group the changes appropriately.
+1. Open the newly generated `gold/` file and follow the instructions in the comments of the file to group the changes as you see fit.
 
 ## Metrics
 
