@@ -1,8 +1,6 @@
 # pr-splitter
 
-Large pull requests are overwhelming and difficult to review. `pr-splitter` is a CLI that automatically breaks up large pull requests for better code reviews.
-
-**How:**: Splits the pull request locally, opens new smaller PRs, and closes the original.
+> Automatically break up large pull requests for easier code reviews.
 
 <img src="media/pr-splitter-demo.gif" width="688">
 
