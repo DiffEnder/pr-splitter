@@ -10,6 +10,12 @@
 npm install -g pr-splitter
 ```
 
+## How
+
+1. Split the pull request locally using your LLM of choice.
+2. You approve the split.
+3. `pr-splitter` creates new smaller PRs in GitHub and closes the original.
+
 ## Usage
 
 Run `pr-splitter` without arguments to launch the interactive UI that guides you through breaking up a pull request.
