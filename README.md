@@ -4,9 +4,14 @@
 
 <img src="media/pr-splitter-demo.gif" width="688">
 
-## How
+**Why?**
 
-1. Split the pull request locally using your LLM of choice.
+Large pull requests are overwhelming and often receive a rubber stamp approval rather than a thorough review.
+Small pull requests are easier to review and lead to safer deployments.
+
+**How?**
+
+1. Split the pull request locally using your LLM of choice (OpenAI, Anthropic, Google, etc.).
 2. You approve the split.
 3. `pr-splitter` creates new smaller PRs in GitHub and closes the original.
 
