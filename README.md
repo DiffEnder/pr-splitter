@@ -1,6 +1,6 @@
 # pr-splitter
 
-> Automatically break up large pull requests
+> Break up large pull requests into easy to review, smaller pull requests using :sparkles: AI :sparkles:.
 
 <img src="media/pr-splitter-demo.gif" width="688">
 
